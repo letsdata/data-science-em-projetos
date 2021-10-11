@@ -1,2 +1,3 @@
-# data-science-em-projetos
+# Data Science em Projetos
+
 Códigos do evento Data Science em Projetos
